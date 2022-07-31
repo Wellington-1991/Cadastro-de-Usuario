@@ -1,0 +1,17 @@
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\bin\Debug\net6.0-windows\Cadastrar_Usuarios.exe
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\bin\Debug\net6.0-windows\Cadastrar_Usuarios.deps.json
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\bin\Debug\net6.0-windows\Cadastrar_Usuarios.runtimeconfig.json
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\bin\Debug\net6.0-windows\Cadastrar_Usuarios.dll
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\bin\Debug\net6.0-windows\ref\Cadastrar_Usuarios.dll
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\bin\Debug\net6.0-windows\Cadastrar_Usuarios.pdb
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.csproj.AssemblyReference.cache
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.frmPrincipal.resources
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.csproj.GenerateResource.cache
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.AssemblyInfoInputs.cache
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.AssemblyInfo.cs
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.csproj.CoreCompileInputs.cache
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.dll
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\ref\Cadastrar_Usuarios.dll
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.pdb
+D:\Wellington\MEUS_PROJETOS\Cadastrar\Cadastrar_Usuarios\Cadastrar_Usuarios\obj\Debug\net6.0-windows\Cadastrar_Usuarios.genruntimeconfig.cache
